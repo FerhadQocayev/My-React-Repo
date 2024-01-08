@@ -1,0 +1,13 @@
+#home {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  .home {
+    height: 62vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1 {
+      color: rgb(85, 72, 0);
+    }
+  }
+}

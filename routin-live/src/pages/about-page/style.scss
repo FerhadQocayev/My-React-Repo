@@ -1,0 +1,14 @@
+#about {
+  background-color: aliceblue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  .about {
+    height: 62vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1 {
+      color: rgb(238, 144, 144);
+    }
+  }
+}
